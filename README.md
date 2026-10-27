@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-GMX (mail) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://gmx.net/
+GMX (mail) is a German email and cloud service provider offering free webmail, cloud storage, news, and premium upgrades. It serves millions of users with web and mobile interfaces, providing features such as personal email addresses, cloud backup, and integrated news and entertainment content. The service emphasizes security, data protection, and a range of optional paid features for enhanced mailbox capacity and functionality.
+
+**Areas:** Company · Email · Cloud · Free · German
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gmx.net/)
+- [Documentation](https://hilfe.gmx.net/)
+- [Pricing](https://www.gmx.net/mail/premium/)
+- [Support](https://hilfe.gmx.net/)
+- [Blog](https://www.gmx.net/magazine/)
+- [Security](https://bugbounty.gmx.net)
+- [Terms of service](https://www.gmx.net/impressum/)
+- [Privacy policy](https://www.gmx.net/datenschutz/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/gmx-net/](https://apis.io/providers/gmx-net/).
